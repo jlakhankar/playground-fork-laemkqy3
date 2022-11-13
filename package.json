@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jlakhankar.playground-fork-laemkqy3",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve gKzkn6kyGO5pKpNaoyEp --open"
+  }
+}
